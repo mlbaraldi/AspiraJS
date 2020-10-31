@@ -1,1 +1,0 @@
-let teste = "isso é um teste!"
